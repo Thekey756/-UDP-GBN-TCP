@@ -1,0 +1,2 @@
+main.py调用gbn.py，gbn.py里包含GBN、SR、拥塞控制
+运行main.py即可
